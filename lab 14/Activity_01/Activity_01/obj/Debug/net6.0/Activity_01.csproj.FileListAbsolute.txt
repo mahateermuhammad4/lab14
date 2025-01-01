@@ -1,0 +1,58 @@
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\bin\Debug\net6.0\appsettings.json
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.staticwebassets.runtime.json
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.exe
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.deps.json
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.runtimeconfig.json
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.dll
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.pdb
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.csproj.AssemblyReference.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.AssemblyInfoInputs.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.AssemblyInfo.cs
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.csproj.CoreCompileInputs.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.RazorAssemblyInfo.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.RazorAssemblyInfo.cs
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\scopedcss\bundle\Activity_01.styles.css
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\scopedcss\projectbundle\Activity_01.bundle.scp.css
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.dll
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\refint\Activity_01.dll
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.pdb
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.genruntimeconfig.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 14\Activity_01\Activity_01\obj\Debug\net6.0\ref\Activity_01.dll
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.staticwebassets.runtime.json
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.exe
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.deps.json
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.runtimeconfig.json
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.dll
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\bin\Debug\net6.0\Activity_01.pdb
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.AssemblyInfo.cs
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets\msbuild.Activity_01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets\msbuild.build.Activity_01.props
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Activity_01.props
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Activity_01.props
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\scopedcss\bundle\Activity_01.styles.css
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\scopedcss\projectbundle\Activity_01.bundle.scp.css
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.dll
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\refint\Activity_01.dll
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.pdb
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\Activity_01.genruntimeconfig.cache
+C:\Users\HP\Desktop\lab 14\Activity_01\Activity_01\obj\Debug\net6.0\ref\Activity_01.dll
